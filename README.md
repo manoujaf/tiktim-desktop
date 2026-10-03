@@ -86,7 +86,8 @@ sudo dnf install ./TikTim-*.x86_64.rpm     # Fedora
 
 ## Also on
 
-- Web: [app.tiktim.com](https://app.tiktim.com)
+- Website: [tiktim.com](https://tiktim.com)
+- Web app: [app.tiktim.com](https://app.tiktim.com)
 - Android: TikTim
 
 ---
